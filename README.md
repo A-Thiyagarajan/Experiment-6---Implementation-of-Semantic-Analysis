@@ -5,13 +5,21 @@ Construct a python program to read a text from a file.Identify the verbs from th
 
 ## Algorithm:
 Install the required libraries.
+
 Install nltk (Natural Language Toolkit) by running pip install nltk in your terminal. 
+
 Install WordNet by running nltk.download('wordnet') in your Python script or notebook.
+
 Import the necessary libraries and modules.
+
 Read the text file.
+
 Tokenize the text into sentences and words.
+
 Identify verbs using part-of-speech tagging.
+
 Get synonyms for each verb.
+
 Process the text file and display the verbs and their synonyms.
 
 
